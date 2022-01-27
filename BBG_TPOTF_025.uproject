@@ -72,17 +72,6 @@
 				"HoloLens",
 				"Android"
 			]
-		},
-		{
-			"Name": "OpenXR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux",
-				"Android",
-				"HoloLens"
-			]
 		}
 	],
 	"TargetPlatforms": [
